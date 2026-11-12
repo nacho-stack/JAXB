@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<jaxb:bindings version="3.0" xmlns:jaxb="https://jakarta.ee/xml/ns/jaxb">
+  <!--
+
+Este archivo ha sido generado por Eclipse Implementation of JAXB v4.0.6 
+Visite https://eclipse-ee4j.github.io/jaxb-ri 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2026.11.04 a las 09:37:57 AM CET
+  -->
+  <jaxb:bindings scd="x-schema::" if-exists="true" auto-acknowledge="true">
+    <jaxb:schemaBindings map="false">
+      <jaxb:package name="es.dam2.expedientes"/>
+    </jaxb:schemaBindings>
+    <jaxb:bindings scd="~ArchivoType" if-exists="true" auto-acknowledge="true">
+      <jaxb:class ref="es.dam2.expedientes.ArchivoType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~ExpedienteType" if-exists="true" auto-acknowledge="true">
+      <jaxb:class ref="es.dam2.expedientes.ExpedienteType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~UbicacionType" if-exists="true" auto-acknowledge="true">
+      <jaxb:class ref="es.dam2.expedientes.UbicacionType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~InvestigacionesType" if-exists="true" auto-acknowledge="true">
+      <jaxb:class ref="es.dam2.expedientes.InvestigacionesType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~InvestigacionType" if-exists="true" auto-acknowledge="true">
+      <jaxb:class ref="es.dam2.expedientes.InvestigacionType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~EvidenciasType" if-exists="true" auto-acknowledge="true">
+      <jaxb:class ref="es.dam2.expedientes.EvidenciasType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~EvidenciaType" if-exists="true" auto-acknowledge="true">
+      <jaxb:class ref="es.dam2.expedientes.EvidenciaType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~EstadoType" if-exists="true" auto-acknowledge="true">
+      <jaxb:typesafeEnumClass ref="es.dam2.expedientes.EstadoType"/>
+    </jaxb:bindings>
+    <jaxb:bindings scd="~TipoEvidenciaType" if-exists="true" auto-acknowledge="true">
+      <jaxb:typesafeEnumClass ref="es.dam2.expedientes.TipoEvidenciaType"/>
+    </jaxb:bindings>
+  </jaxb:bindings>
+</jaxb:bindings>
+

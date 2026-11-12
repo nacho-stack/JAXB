@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<archivo nombre="Observatorio de lo Insólito" fundacion="1987">
+    <expediente codigo="EXP-001" estado="cerrado">
+        <titulo>Las luces del faro abandonado</titulo>
+        <ubicacion pais="España">Galicia</ubicacion>
+        <investigaciones>
+            <investigacion año="2018">
+                <responsable>Elena Varela</responsable>
+                <resultado>Sin explicación</resultado>
+                <evidencias>
+                    <evidencia tipo="fotografia">Destellos nocturnos</evidencia>
+                    <evidencia tipo="audio">Sonidos metálicos</evidencia>
+                </evidencias>
+            </investigacion>
+            <investigacion año="2022">
+                <responsable>Marcos Vidal</responsable>
+                <resultado>Actividad intermitente</resultado>
+            </investigacion>
+        </investigaciones>
+    </expediente>
+    <expediente codigo="EXP-002" estado="cerrado">
+        <titulo>El bosque de los relojes detenidos</titulo>
+        <ubicacion pais="Alemania">Selva Negra</ubicacion>
+        <investigaciones>
+            <investigacion año="2019">
+                <responsable>Anna Weber</responsable>
+                <resultado>Alteración magnética</resultado>
+                <evidencias>
+                    <evidencia tipo="video">Relojes detenidos</evidencia>
+                </evidencias>
+            </investigacion>
+        </investigaciones>
+    </expediente>
+    <expediente codigo="EXP-003" estado="abierto">
+        <titulo>Las voces bajo el hielo</titulo>
+        <ubicacion pais="Islandia">Vatnajökull</ubicacion>
+        <investigaciones>
+            <investigacion año="2021">
+                <responsable>Ingrid Jónsdóttir</responsable>
+                <resultado>Origen desconocido</resultado>
+                <evidencias>
+                    <evidencia tipo="audio">Voces bajo el glaciar</evidencia>
+                    <evidencia tipo="sensor">Vibraciones anómalas</evidencia>
+                </evidencias>
+            </investigacion>
+            <investigacion año="2024">
+                <responsable>Ólafur Eriksson</responsable>
+                <resultado>Fenómeno recurrente</resultado>
+            </investigacion>
+        </investigaciones>
+    </expediente>
+    <expediente codigo="EXP-004" estado="abierto">
+        <titulo>Sombras en el monasterio</titulo>
+        <ubicacion pais="España">Toledo</ubicacion>
+        <investigaciones>
+            <investigacion año="2020">
+                <responsable>Elena Varela</responsable>
+                <resultado>Indicios inconclusos</resultado>
+                <evidencias>
+                    <evidencia tipo="fotografia">Sombra en claustro</evidencia>
+                </evidencias>
+            </investigacion>
+        </investigaciones>
+    </expediente>
+    <expediente codigo="EXP-005" estado="cerrado">
+        <titulo>La señal del desierto</titulo>
+        <ubicacion pais="Chile">Atacama</ubicacion>
+        <investigaciones>
+            <investigacion año="2017">
+                <responsable>Pablo Ríos</responsable>
+                <resultado>Interferencia natural</resultado>
+                <evidencias>
+                    <evidencia tipo="audio">Ruido repetitivo</evidencia>
+                </evidencias>
+            </investigacion>
+        </investigaciones>
+    </expediente>
+    <expediente codigo="EXP-006" estado="abierto">
+        <titulo>Ecos del túnel</titulo>
+        <ubicacion pais="España">Asturias</ubicacion>
+        <investigaciones>
+            <investigacion año="2025">
+                <responsable>Elena Varela</responsable>
+                <resultado>En estudio</resultado>
+                <evidencias>
+                    <evidencia tipo="audio">Eco de pasos</evidencia>
+                    <evidencia tipo="audio">Susurros</evidencia>
+                </evidencias>
+            </investigacion>
+            <investigacion año="2026">
+                <responsable>Marta León</responsable>
+                <resultado>Pendiente</resultado>
+            </investigacion>
+        </investigaciones>
+    </expediente>
+    <expediente codigo="EXP-007" estado="abierto">
+        <titulo>Destellos del lago</titulo>
+        <ubicacion pais="Finlandia">Inari</ubicacion>
+        <investigaciones>
+            <investigacion año="2023">
+                <responsable>Marcos Vidal</responsable>
+                <resultado>No concluyente</resultado>
+                <evidencias>
+                    <evidencia tipo="video">Luz en el horizonte</evidencia>
+                </evidencias>
+            </investigacion>
+        </investigaciones>
+    </expediente>
+    <expediente codigo="EXP-008" estado="cerrado">
+        <titulo>El tren sin pasajeros</titulo>
+        <ubicacion pais="Francia">Normandía</ubicacion>
+        <investigaciones>
+            <investigacion año="2016">
+                <responsable>Claire Martin</responsable>
+                <resultado>Error de observación</resultado>
+            </investigacion>
+        </investigaciones>
+    </expediente>
+    <expediente codigo="EXP-009" estado="abierto">
+        <titulo>Vibraciones del observatorio</titulo>
+        <ubicacion pais="Portugal">Coímbra</ubicacion>
+        <investigaciones>
+            <investigacion año="2020">
+                <responsable>Marta León</responsable>
+                <resultado>Mediciones anómalas</resultado>
+                <evidencias>
+                    <evidencia tipo="sensor">Picos en el registro</evidencia>
+                </evidencias>
+            </investigacion>
+            <investigacion año="2022">
+                <responsable>Marta León</responsable>
+                <resultado>Medición repetida</resultado>
+                <evidencias>
+                    <evidencia tipo="sensor">Nuevo pico</evidencia>
+                </evidencias>
+            </investigacion>
+        </investigaciones>
+    </expediente>
+    <expediente codigo="EXP-010" estado="cerrado">
+        <titulo>La torre del viento</titulo>
+        <ubicacion pais="Italia">Umbría</ubicacion>
+        <investigaciones>
+            <investigacion año="2024">
+                <responsable>Anna Weber</responsable>
+                <resultado>Causa meteorológica</resultado>
+                <evidencias>
+                    <evidencia tipo="video">Corrientes visibles</evidencia>
+                </evidencias>
+            </investigacion>
+        </investigaciones>
+    </expediente>
+</archivo>
